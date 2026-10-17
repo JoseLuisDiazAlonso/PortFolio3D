@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "about": "About me",
+    "tools": "Tools",
+    "projects": "Projects",
+    "education": "Education",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Full-Stack Developer",
+    "tagline": "I turn ideas into modern, fast and scalable web and mobile applications.",
+    "ctaProjects": "View projects",
+    "ctaContact": "Let's talk"
+  },
+  "about": {
+    "title": "About me",
+    "paragraph1": "I'm a full-stack developer based in Madrid. In 2022 I moved into software development from an administrative background, and I haven't stopped learning since.",
+    "paragraph2": "I work with React, Node.js and Tailwind CSS on the web, and Kotlin on Android. I care about clean, maintainable code built to grow.",
+    "paragraph3": "I currently combine freelance projects with a vocational degree in Multiplatform Application Development (DAM)."
+  },
+  "tools": {
+    "title": "Tools",
+    "subtitle": "Technologies I work with every day",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "databases": "Databases",
+      "mobile": "Mobile",
+      "devops": "Servers & DevOps",
+      "automation": "Automation"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some of the work I've built",
+    "viewDemo": "Live demo",
+    "viewCode": "View code",
+    "items": {
+      "tierraquemada": {
+        "title": "Tierraquemada Cultural Association Website",
+        "description": "Website for a Celtiberian cultural association in Soria, featuring events and activities."
+      },
+      "fleetTracking": {
+        "title": "Fleet Tracking",
+        "description": "Web application for real-time vehicle tracking, built with React, Node.js and MySQL."
+      }
+    }
+  },
+  "education": {
+    "title": "Education",
+    "present": "Present",
+    "items": {
+      "dam": {
+        "title": "Multiplatform Application Development (DAM)",
+        "description": "Higher vocational degree, in progress."
+      },
+      "selfTaught": {
+        "title": "Self-taught web development",
+        "description": "Continuous full-stack learning through real projects and courses."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Articles I publish on LinkedIn",
+    "readMore": "Read on LinkedIn"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Got a project in mind? Drop me a line and let's talk.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Email",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "madeWith": "Made with React and lots of coffee"
+  },
+  "common": {
+    "languages": {
+      "es": "Español",
+      "en": "English"
+    },
+    "changeLanguage": "Change language",
+    "backToTop": "Back to top"
+  }
+}

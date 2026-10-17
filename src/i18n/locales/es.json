@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "tools": "Herramientas",
+    "projects": "Proyectos",
+    "education": "Formación",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "role": "Desarrollador Full-Stack",
+    "tagline": "Convierto ideas en aplicaciones web y móviles modernas, rápidas y escalables.",
+    "ctaProjects": "Ver proyectos",
+    "ctaContact": "Hablemos"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "paragraph1": "Soy desarrollador full-stack en Madrid. En 2022 di el salto a la programación desde el ámbito administrativo y desde entonces no he parado de aprender.",
+    "paragraph2": "Trabajo con React, Node.js y Tailwind CSS en web, y con Kotlin en Android. Me importa el código limpio, mantenible y pensado para crecer.",
+    "paragraph3": "Actualmente compagino proyectos freelance con el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM)."
+  },
+  "tools": {
+    "title": "Herramientas",
+    "subtitle": "Tecnologías con las que trabajo a diario",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "databases": "Bases de datos",
+      "mobile": "Móvil",
+      "devops": "Servidores y DevOps",
+      "automation": "Automatización"
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Algunos de los trabajos que he desarrollado",
+    "viewDemo": "Ver demo",
+    "viewCode": "Ver código",
+    "items": {
+      "tierraquemada": {
+        "title": "Web Asociación Cultural Tierraquemada",
+        "description": "Web para una asociación cultural celtibérica de Soria, con información de eventos y actividades."
+      },
+      "fleetTracking": {
+        "title": "Seguimiento de flota",
+        "description": "Aplicación web para el seguimiento de vehículos en tiempo real, con React, Node.js y MySQL."
+      }
+    }
+  },
+  "education": {
+    "title": "Formación",
+    "present": "Actualidad",
+    "items": {
+      "dam": {
+        "title": "Desarrollo de Aplicaciones Multiplataforma (DAM)",
+        "description": "Ciclo formativo de grado superior, en curso."
+      },
+      "selfTaught": {
+        "title": "Formación autodidacta en desarrollo web",
+        "description": "Aprendizaje continuo de desarrollo full-stack mediante proyectos reales y cursos."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Artículos que publico en LinkedIn",
+    "readMore": "Leer en LinkedIn"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes un proyecto en mente? Escríbeme y lo hablamos.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Correo electrónico",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "madeWith": "Hecho con React y mucho café"
+  },
+  "common": {
+    "languages": {
+      "es": "Español",
+      "en": "English"
+    },
+    "changeLanguage": "Cambiar idioma",
+    "backToTop": "Volver arriba"
+  }
+}
